@@ -25,8 +25,8 @@ constexpr byte sensorPin = A0;
 // Threshold value used to determine whether sensor is obscured by hand
 constexpr uint16_t threshold = 500;
 // Wi-Fi credentials to retrieve time from NTP server
-constexpr char *wifiSSID     = "vodafone1236D8";
-constexpr char *wifiPassword = "q3TGpAbgHL7KaYsp";
+constexpr char *wifiSSID     = "INSERT YOUR SSID HERE";
+constexpr char *wifiPassword = "INSERT YOUR PASSWORD HERE";
 
 // GLOBALS
 // Motor Control
